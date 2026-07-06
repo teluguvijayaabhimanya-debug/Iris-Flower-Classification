@@ -111,4 +111,4 @@ Iris-Flower-Classification/
 
 ### pair plot
 
-![Pair Plot](https://github.com/teluguvijayaabhimanya-debug/Iris-Flower-Classification/blob/main/Screenshot%202026-07-06%20084529.png?raw=true)
+![Pair Plot](https://github.com/teluguvijayaabhimanya-debug/Iris-Flower-Classification/blob/main/Pair%20Plot.png?raw=true)
