@@ -102,5 +102,3 @@ Iris-Flower-Classification/
 * Use cross-validation for more robust evaluation.
 * Deploy the model as a web application using Flask or Streamlit.
 
-
-**Your Name**
