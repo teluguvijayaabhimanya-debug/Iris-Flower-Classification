@@ -105,6 +105,6 @@ Iris-Flower-Classification/
 
 ## Screenshots
 
-### Pair Plot
+### correlation heatmap
 
-![Pair Plot](https://github.com/teluguvijayaabhimanya-debug/Iris-Flower-Classification/blob/main/Screenshot%202026-07-06%20084324.png?raw=true)
+![Correlation Heatmap](https://github.com/teluguvijayaabhimanya-debug/Iris-Flower-Classification/blob/main/Screenshot%202026-07-06%20084324.png?raw=true)
