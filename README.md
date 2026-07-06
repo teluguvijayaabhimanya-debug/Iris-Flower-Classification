@@ -102,3 +102,9 @@ Iris-Flower-Classification/
 * Use cross-validation for more robust evaluation.
 * Deploy the model as a web application using Flask or Streamlit.
 
+
+## Screenshots
+
+### Pair Plot
+
+![Pair Plot](https://github.com/teluguvijayaabhimanya-debug/Iris-Flower-Classification/blob/main/Screenshot%202026-07-06%20084324.png?raw=true)
